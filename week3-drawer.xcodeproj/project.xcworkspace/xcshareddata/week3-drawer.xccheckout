@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>4D00ACA0-88EF-4DCB-BD70-79BA3AB3FF1D</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>week3-drawer</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>D9F13D373C90DEEA03C1FEBF694FFBEB02964E35</key>
 		<string>https://github.com/ckizer/week3-drawer.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>week3-drawer.xcodeproj/project.xcworkspace</string>
+	<string>week3-drawer.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>D9F13D373C90DEEA03C1FEBF694FFBEB02964E35</key>
